@@ -3,6 +3,6 @@ layout: post
 title: You're up and running!
 published: true
 ---
-#First blog using jeckyll
+I'm playing around with my website options, like everything in life, the good things you have to work for and you should'nt sweat the rest.
 
-##Hopefully ill update this soon
+![]({{site.baseurl}}/https://github.com/robertsink/robertsink.github.io/blob/master/images/black%20watermark.png)
